@@ -70,12 +70,12 @@ module.exports = {
       {
         hid: 'twitter:site',
         name: 'twitter:site',
-        content: '@containerdaysjp'
+        content: '@cloudnativedays'
       },
       {
         hid: 'twitter:creator',
         name: 'twitter:creator',
-        content: '@containerdaysjp'
+        content: '@cloudnativedays'
       },
       {
         hid: 'twitter:image',
