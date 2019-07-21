@@ -70,12 +70,12 @@ module.exports = {
       {
         hid: 'twitter:site',
         name: 'twitter:site',
-        content: '@containerdaysjp'
+        content: '@cloudnativedays'
       },
       {
         hid: 'twitter:creator',
         name: 'twitter:creator',
-        content: '@containerdaysjp'
+        content: '@cloudnativedays'
       },
       {
         hid: 'twitter:image',
@@ -154,7 +154,7 @@ module.exports = {
     }
   },
   workbox: {
-    dev: true //開発環境でもPWAできるように
+    dev: false //開発環境でもPWAできるように
   },
   manifest: {
     name: 'showKs Portal',

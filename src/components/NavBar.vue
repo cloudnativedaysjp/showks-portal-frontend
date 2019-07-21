@@ -6,7 +6,7 @@
     <div class="navbar-brand">
       <span
         class="navbar-item">
-        <a href="https://showks.containerdays.jp"><img
+        <a href="https://cloudnativedaysjp.github.io/showks"><img
           src="/img/showKs-icon.png"
           alt="showKs icon"
           width="30"
